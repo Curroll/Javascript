@@ -19,3 +19,9 @@
 [submodule "Random_Password_Generator"]
 	path = Random_Password_Generator
 	url = https://github.com/Curroll/Random_Password_Generator.git
+[submodule "Dice-Roller"]
+	path = Dice-Roller
+	url = https://github.com/Curroll/Dice-Roller.git
+[submodule "Temperature-conversion"]
+	path = Temperature-conversion
+	url = https://github.com/Curroll/Temperature-conversion.git
