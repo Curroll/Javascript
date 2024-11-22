@@ -1,0 +1,21 @@
+[submodule "Image-Slider"]
+	path = Image-Slider
+	url = https://github.com/Curroll/Image-Slider.git
+[submodule "Rock-paper-scissors"]
+	path = Rock-paper-scissors
+	url = https://github.com/Curroll/Rock-paper-scissors.git
+[submodule "Key-event-Javascript"]
+	path = Key-event-Javascript
+	url = https://github.com/Curroll/Key-event-Javascript.git
+[submodule "Stopwatch"]
+	path = Stopwatch
+	url = https://github.com/Curroll/Stopwatch.git
+[submodule "Calculator"]
+	path = Calculator
+	url = https://github.com/Curroll/Calculator.git
+[submodule "Javascript-Clock"]
+	path = Javascript-Clock
+	url = https://github.com/Curroll/Javascript-Clock.git
+[submodule "Random_Password_Generator"]
+	path = Random_Password_Generator
+	url = https://github.com/Curroll/Random_Password_Generator.git
